@@ -6,7 +6,7 @@ QA：ESLint
 
 ## 模块化
 AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、CommonJS、ES6 Module  
-模块化历程：http://www.cnblogs.ocm/lvdabao/p/js-modules-develop.html   
+模块化历程：http://www.cnblogs.com/lvdabao/p/js-modules-develop.html   
 
 ## ES6（ECMAScript 2015）
 https://github.com/lukehoban/es6features  
