@@ -15,15 +15,19 @@ http://es6.ruanyifeng.com/
 #### ECMAScript 2018
 异步函数迭代器、Object Rest/Spread Properties、Promise.prototype.finally、Template Literal、正则表达式新特性
 
-## 浏览器兼容
+#### ECMAScript 2019
+---
+
+#### 浏览器兼容
 http://kangax.github.io/compat-table/   
 
-## 模块化
+## WOW
+#### 模块化
 AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、CommonJS、ES6 Module  
 模块化历程：http://www.cnblogs.com/lvdabao/p/js-modules-develop.html   
 
 ## 框架
-jquery、angular、react、vue、aurelia、backbone、ember、riot、mithril   
+jquery、angular、react、vue、backbone、ember、polymer、riot、mithril、aurelia、meteor   
 
 ## Node.js
 https://nodejs.org/   
@@ -38,4 +42,5 @@ https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to
 QA：ESLint   
 
 ## Awesome
+https://js.libhunt.com/  
 https://github.com/sorrycc/awesome-javascript   
