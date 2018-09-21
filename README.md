@@ -16,7 +16,7 @@ http://es6.ruanyifeng.com/
 异步函数迭代器、Object Rest/Spread Properties、Promise.prototype.finally、Template Literal、正则表达式新特性
 
 #### ECMAScript 2019
----
+--
 
 #### 浏览器兼容
 http://kangax.github.io/compat-table/   
