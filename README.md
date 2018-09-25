@@ -27,12 +27,12 @@ AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、Co
 模块化历程：http://www.cnblogs.com/lvdabao/p/js-modules-develop.html   
 #### 流程控制
 JavaScript流程控制的演进过程，分以下6部分:
-    同步代码
-    异步：callback hell
-    Thunk
-    Promise/a+
-    生成器Generators/yield
-    Async/Await
+    同步代码  
+    异步：callback hell  
+    Thunk  
+    Promise/a+  
+    生成器Generators/yield  
+    Async/Await   
 
 ## 框架
 jquery、angular、react、vue、backbone、ember、polymer、riot、mithril、aurelia、meteor   
