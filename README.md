@@ -52,7 +52,7 @@ https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to
 
 ## 自动化
 包管理：npm、yarn  
-构建打包：Grunt、Gulp、Webpack、Rollup  
+构建打包：Gulp、Webpack、Rollup  
 QA：ESLint   
 
 ## Awesome
