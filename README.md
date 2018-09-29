@@ -29,17 +29,22 @@ AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、Co
    同步   
    异步：  
       callback hell  
-      Thunk  
-      Promise/a+  
-      生成器Generators/yield  
-      Async/Await   
+      thunk  
+      promise/a+  
+      生成器generators/yield  
+      async/await   
 
 ## 框架
 react&redux、vue、angular、jquery、backbone、ember、knockout、polymer、meteor、riot、mithril、aurelia   
 
 ## Node.js
 https://nodejs.org/  
-http://nodeframework.com/   
+http://nodeframework.com/  
+
+#### Other
+electron https://electronjs.org/  
+nw.js https://nwjs.io/   
+meteor https://www.meteor.com/  
 
 ## CompileToJS
 Babel、TypeScript、CoffeeScript、Dart、WebAssembly  
