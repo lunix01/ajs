@@ -35,10 +35,11 @@ AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、Co
       Async/Await   
 
 ## 框架
-jquery、angular、react、vue、backbone、ember、polymer、riot、mithril、aurelia、meteor   
+react&redux、vue、angular、jquery、backbone、ember、knockout、polymer、meteor、riot、mithril、aurelia   
 
 ## Node.js
-https://nodejs.org/   
+https://nodejs.org/  
+http://nodeframework.com/   
 
 ## CompileToJS
 Babel、TypeScript、CoffeeScript、Dart、WebAssembly  
