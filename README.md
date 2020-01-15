@@ -34,7 +34,7 @@ JSON ECMAScript(JSON Superset)
 
 ## WOW
 #### 模块化
-AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、CommonJS、ESM（ECMA Script Modules）
+AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、CommonJS、ESM（ECMA Script Modules）   
 [模块化历程](http://www.cnblogs.com/lvdabao/p/js-modules-develop.html) 
 
 #### 流程控制  
@@ -64,8 +64,8 @@ WebAssembly
 ## 自动化
 包管理：[npm](https://www.npmjs.com/)、[yarn](https://www.yarnpkg.com/)   
 构建打包：[Gulp](https://gulpjs.com/)、[Webpack](https://webpack.js.org/)、Rollup、Parcel、Snowpack   
-代码风格：[ESLint](https://eslint.org/) + Prettier   
-测试：Jest   
+QA：[ESLint](https://eslint.org/) + [Prettier](https://prettier.io/)   
+测试：[Jest](https://jestjs.io/)   
 
 ## Awesome
 https://js.libhunt.com/   
