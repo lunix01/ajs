@@ -27,46 +27,45 @@ Array.Sort Stability
 JSON ECMAScript(JSON Superset)   
 
 #### ECMAScript 2020
---
+--   
 
 #### 浏览器兼容
-[表格](http://kangax.github.io/compat-table/)  
+[表格](http://kangax.github.io/compat-table/)   
 
 ## WOW
 #### 模块化
-AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、CommonJS、ESM（ECMA Script Modules）  
-[模块化历程](http://www.cnblogs.com/lvdabao/p/js-modules-develop.html)   
+AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、CommonJS、ESM（ECMA Script Modules）
+[模块化历程](http://www.cnblogs.com/lvdabao/p/js-modules-develop.html) 
+
 #### 流程控制  
    同步   
-   异步：  
-      callback hell  
-      thunk  
-      promise/a+  
-      生成器generators/yield  
-      async/await   
+   异步：   
+      callback hel   
+      Thunk   
+      Promise/a+   
+      生成器Generators/yield   
+      Async/Await   
 
 ## 框架
 [react](https://reactjs.org/)&[redux](https://redux.js.org)、[vue](https://cn.vuejs.org/)、[angular 2](https://angular.io/)、jquery、backbone、ember、aurelia、knockout、riot、mithril、polymer   
 
 ## Node.js
-## Node.js
 [Node.js](https://nodejs.org/)   
-[Koa](https://koajs.com/)、[Meteor](https://www.meteor.com/)、[Framework](http://nodeframework.com/)    
+[Koa](https://koajs.com/)、[Meteor](https://www.meteor.com/)、[Framework](http://nodeframework.com/)   
 
 #### 桌面应用
-[electron](https://electronjs.org/)、[nw.js](https://nwjs.io/)
+[nw.js](https://nwjs.io/)、[electron](https://electronjs.org/)   
 
 ## JS转译器
 [Babel](https://babeljs.io/)、[SWC](https://github.com/swc-project/swc)   
-[TypeScript](http://www.typescriptlang.org/)、CoffeeScript、Dart   
+[TypeScript](http://www.typescriptlang.org/)、CoffeeScript、Dart、[Compile to JS](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)   
 WebAssembly   
-[Compile to JS](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)   
 
 ## 自动化
-包管理：npm、yarn   
+包管理：[npm](https://www.npmjs.com/)、[yarn](https://www.yarnpkg.com/)   
 构建打包：[Gulp](https://gulpjs.com/)、[Webpack](https://webpack.js.org/)、Rollup、Parcel、Snowpack   
 代码风格：[ESLint](https://eslint.org/) + Prettier   
 测试：Jest   
 
 ## Awesome
-https://js.libhunt.com/  
+https://js.libhunt.com/   
