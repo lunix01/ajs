@@ -23,7 +23,7 @@ http://kangax.github.io/compat-table/
 
 ## WOW
 #### 模块化
-AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、CommonJS、ES6 Module  
+AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、CommonJS、ESM（ECMA Script Modules）  
 模块化历程：http://www.cnblogs.com/lvdabao/p/js-modules-develop.html   
 #### 流程控制  
    同步   
@@ -39,6 +39,7 @@ react&redux、vue、angular、jquery、backbone、ember、knockout、polymer、m
 
 ## Node.js
 https://nodejs.org/  
+connect、Express、Koa  
 http://nodeframework.com/  
 
 #### Other
@@ -47,13 +48,17 @@ nw.js https://nwjs.io/
 meteor https://www.meteor.com/  
 
 ## CompileToJS
-Babel、TypeScript、CoffeeScript、Dart、WebAssembly  
+CoffeeScript、Dart   
+Babel、TypeScript   
+WebAssembly  
+https://github.com/swc-project/swc   
 https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS   
 
 ## 自动化
 包管理：npm、yarn  
-构建打包：Gulp、Webpack、Rollup  
-QA：ESLint   
+构建打包：Gulp、Webpack、Rollup、Parcel、Snowpack  
+代码风格：ESLint+Prettier   
+测试：   
 
 ## Awesome
 https://js.libhunt.com/  
