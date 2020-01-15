@@ -47,7 +47,7 @@ AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、Co
       Async/Await   
 
 ## 框架
-[react](https://reactjs.org/)&[redux](https://redux.js.org)、[vue](https://cn.vuejs.org/)、[angular 2](https://angular.io/)、jquery、backbone、ember、aurelia、knockout、riot、mithril、polymer   
+[React](https://reactjs.org/)&[Redux](https://redux.js.org)&[JSX](https://facebook.github.io/jsx/)、[Vue](https://cn.vuejs.org/)、[Angular 2](https://angular.io/)、JQuery、Backbone、Ember、Aurelia、Knockout、Riot、Mithril、Polymer   
 
 ## Node.js
 [Node.js](https://nodejs.org/)   
@@ -64,7 +64,7 @@ WebAssembly
 ## 自动化
 包管理：[npm](https://www.npmjs.com/)、[yarn](https://www.yarnpkg.com/)   
 构建打包：[Gulp](https://gulpjs.com/)、[Webpack](https://webpack.js.org/)、Rollup、Parcel、Snowpack   
-QA：[ESLint](https://eslint.org/) + [Prettier](https://prettier.io/)   
+Lint：[ESLint](https://eslint.org/) + [Prettier](https://prettier.io/)   
 测试：[Jest](https://jestjs.io/)   
 
 ## Awesome
