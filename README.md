@@ -35,7 +35,7 @@ AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、Co
       async/await   
 
 ## 框架
-react&redux、vue、angular、jquery、backbone、ember、knockout、polymer、meteor、riot、mithril、aurelia   
+react&redux、vue、angular、jquery、backbone、ember、aurelia、knockout、riot、mithril、polymer   
 
 ## Node.js
 https://nodejs.org/  
@@ -57,9 +57,8 @@ https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to
 ## 自动化
 包管理：npm、yarn  
 构建打包：Gulp、Webpack、Rollup、Parcel、Snowpack  
-代码风格：ESLint+Prettier   
+代码风格：ESLint + Prettier   
 测试：   
 
 ## Awesome
 https://js.libhunt.com/  
-https://github.com/sorrycc/awesome-javascript   
