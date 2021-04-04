@@ -59,7 +59,7 @@ Numeric separators
 [最新](https://github.com/tc39/proposals/blob/master/finished-proposals.md)
 
 #### 浏览器兼容
-[表格](http://kangax.github.io/compat-table/)   
+[表格](https://github.com/kangax/compat-table/)   
 
 ## WOW
 #### 模块化
