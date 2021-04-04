@@ -1,9 +1,9 @@
 ## ECMAScript
-[ECMAScript标准](https://tc39.github.io/ecma262/)   
+[ECMAScript标准](https://tc39.github.io/ecma262/)
 
 #### ES6（ECMAScript 2015）
-[ES6 Features](https://github.com/lukehoban/es6features) 
-[ES6 Features](https://github.com/rse/es6-features) 
+[ES6 Features](https://github.com/lukehoban/es6features)    
+[ES6 Features](https://github.com/rse/es6-features)    
 [ES6入门教程](http://es6.ruanyifeng.com/) 
 
 #### ES7（ECMAScript 2016）
@@ -16,27 +16,32 @@
 异步函数迭代器、Object Rest/Spread Properties、Promise.prototype.finally、Template Literal、正则表达式新特性
 
 #### ECMAScript 2019
-Array.Flat()、Array.flatMap()
-Object.fromEntries()
-String.trimStart() & String.trimEnd()
-Optional Catch Binding
-Function.toString()
-Symbol.description
-Well Formed JSON.Stringify()
-Array.Sort Stability
+Array.Flat()、Array.flatMap()   
+Object.fromEntries()   
+String.trimStart() & String.trimEnd()   
+Optional Catch Binding   
+Function.toString()   
+Symbol.description   
+Well Formed JSON.Stringify()   
+Array.Sort Stability   
 JSON ECMAScript(JSON Superset)
 
 #### ECMAScript 2020
-Dynamic import()
-Nullish coalescing
-Optional chaining
-BigInt
-String.matchAll
-Promise.allSettled
+Dynamic import()   
+Nullish coalescing   
+Optional chaining   
+BigInt   
+String.matchAll   
+Promise.allSettled   
 globalThis
 
 #### ECMAScript 2021
---
+String.protoype.replaceAll   
+Promise.any   
+WeakRefs   
+Logical Assignment Operators   
+Numeric separators   
+……
 
 #### 浏览器兼容
 [表格](http://kangax.github.io/compat-table/)   
@@ -59,8 +64,8 @@ AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、Co
 [React](https://reactjs.org/)&[Redux](https://redux.js.org)&[JSX](https://facebook.github.io/jsx/)、[Vue](https://cn.vuejs.org/)、[Angular 2](https://angular.io/)、JQuery、Backbone、Ember、Aurelia、Knockout、Riot、Mithril、Polymer   
 
 ## Node.js
-[Node.js](https://nodejs.org/) 
-[Deno](https://deno.land/) 
+[Node.js](https://nodejs.org/)    
+[Deno](https://deno.land/)    
 [Koa](https://koajs.com/)、[Meteor](https://www.meteor.com/)、[Framework](http://nodeframework.com/) 
 
 #### 桌面应用
