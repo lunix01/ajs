@@ -7,33 +7,47 @@
 [ES6入门教程](http://es6.ruanyifeng.com/) 
 
 #### ES7（ECMAScript 2016）
-主要是增加了两个新特性：Array.prototype.include和取幂运算符。
+Array.prototype.includes   
+Exponentiation operator
 
 #### ES8（ECMAScript 2017）
-主要变化包括：Object.values/Object.entries、字符串填充、Object.getOwnPropertyDescriptor、尾随逗号、异步函数、共享内存和原子等。
+Object.values/Object.entries   
+String padding   
+Object.getOwnPropertyDescriptors   
+Trailing commas in function parameter lists and calls   
+Async functions   
+Shared memory and atomics
 
 #### ECMAScript 2018
-异步函数迭代器、Object Rest/Spread Properties、Promise.prototype.finally、Template Literal、正则表达式新特性
+Lifting template literal restriction   
+s (dotAll) flag for regular expressions   
+RegExp named capture groups   
+Rest/Spread Properties   
+RegExp Lookbehind Assertions   
+RegExp Unicode Property Escapes   
+Promise.prototype.finally   
+Asynchronous Iteration
 
 #### ECMAScript 2019
-Array.Flat()、Array.flatMap()   
-Object.fromEntries()   
-String.trimStart() & String.trimEnd()   
-Optional Catch Binding   
-Function.toString()   
-Symbol.description   
-Well Formed JSON.Stringify()   
-Array.Sort Stability   
-JSON ECMAScript(JSON Superset)
+Optional catch binding   
+JSON superset   
+Symbol.prototype.description   
+Function.prototype.toString revision   
+Object.fromEntries   
+Well-formed JSON.stringify   
+String.prototype.{trimStart,trimEnd}   
+Array.prototype.{flat,flatMap}
 
 #### ECMAScript 2020
-Dynamic import()   
-Nullish coalescing   
-Optional chaining   
+String.prototype.matchAll   
+import()   
 BigInt   
-String.matchAll   
 Promise.allSettled   
-globalThis
+globalThis   
+for-in mechanics   
+Optional Chaining   
+Nullish coalescing Operator   
+import.meta
 
 #### ECMAScript 2021
 String.protoype.replaceAll   
@@ -42,6 +56,7 @@ WeakRefs
 Logical Assignment Operators   
 Numeric separators   
 ……
+[最新完成](https://github.com/tc39/proposals/blob/master/finished-proposals.md)
 
 #### 浏览器兼容
 [表格](http://kangax.github.io/compat-table/)   
