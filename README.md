@@ -55,8 +55,8 @@ Promise.any
 WeakRefs   
 Logical Assignment Operators   
 Numeric separators   
-……
-[最新完成](https://github.com/tc39/proposals/blob/master/finished-proposals.md)
+……  
+[最新](https://github.com/tc39/proposals/blob/master/finished-proposals.md)
 
 #### 浏览器兼容
 [表格](http://kangax.github.io/compat-table/)   
