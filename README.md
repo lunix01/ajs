@@ -1,5 +1,5 @@
 ## ECMAScript
-[ECMAScript标准](https://tc39.github.io/ecma262/)
+[ECMAScript标准](https://github.com/tc39/ecma262)
 
 #### ES6（ECMAScript 2015）
 [ES6 Features](https://github.com/lukehoban/es6features)    
