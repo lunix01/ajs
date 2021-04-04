@@ -84,3 +84,7 @@ Lint：[ESLint](https://eslint.org/) + [Prettier](https://prettier.io/)
 
 ## Awesome
 https://js.libhunt.com/   
+https://github.com/sorrycc/awesome-javascript   
+https://github.com/airbnb/javascript   
+https://github.com/trekhleb/javascript-algorithms   
+https://github.com/TheAlgorithms/Javascript
