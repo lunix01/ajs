@@ -72,7 +72,7 @@ AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、Co
 [nw.js](https://nwjs.io/)、[electron](https://electronjs.org/)   
 
 ## JS转译器
-[Babel](https://babeljs.io/)、[SWC](https://github.com/swc-project/swc)   
+[Babel](https://babeljs.io/)、[SWC](https://swc.rs/)   
 [TypeScript](http://www.typescriptlang.org/)、CoffeeScript、Dart、[Compile to JS](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)   
 WebAssembly   
 
