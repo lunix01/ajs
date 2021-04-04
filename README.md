@@ -61,7 +61,7 @@ AMD（Asynchronous Module Definition）、CMD（Common Module Definition）、Co
       Async/Await   
 
 ## 框架
-[React](https://reactjs.org/)&[Redux](https://redux.js.org)&[JSX](https://facebook.github.io/jsx/)、[Vue](https://cn.vuejs.org/)、[Angular 2](https://angular.io/)、JQuery、Backbone、Ember、Aurelia、Knockout、Riot、Mithril、Polymer   
+[React](https://reactjs.org/)&[Redux](https://redux.js.org)&[JSX](https://facebook.github.io/jsx/)、[Vue](https://cn.vuejs.org/)、[Angular 2+](https://angular.io/)、JQuery、Backbone、Ember、Aurelia、Knockout、Riot、Mithril、Polymer   
 
 ## Node.js
 [Node.js](https://nodejs.org/)    
