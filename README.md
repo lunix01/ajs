@@ -83,6 +83,7 @@ Lint：[ESLint](https://eslint.org/) + [Prettier](https://prettier.io/)
 测试：[Jest](https://jestjs.io/)   
 
 ## Awesome
+http://www.javascripting.com/   
 https://js.libhunt.com/   
 https://github.com/sorrycc/awesome-javascript   
 https://github.com/airbnb/javascript   
